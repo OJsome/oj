@@ -1,0 +1,146 @@
+body{
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+p{
+    line-height: 2;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+h3{
+    font-family: 'Montserrat', cursive;
+    color: #11999E;
+}
+
+a{
+    color: #11999E;
+}
+
+h1{
+    color:#66BFBF;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    line-height: 1; /* Unnecessary */
+    margin: 50px auto 0px auto;
+}
+
+hr{
+    border-color: grey;
+    border-width: 5px;
+    border-style: none;
+    border-top-style: dotted;
+    color : #EAF6F6;
+    margin: 100px auto;
+    width: 5%;
+    opacity: 35%;
+}
+
+.bottom-hr{
+    margin-top: 20px;
+}
+
+.topContainer{
+    background-color: #DEF5E5;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container{
+    margin: 70px 0px 10px;
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+    margin-top: 5px;
+}
+
+#subtitle{
+    font-size: 1.6rem;
+}
+
+.top-cloud{
+    position : absolute;
+    right : 300px; 
+    top : 40px;
+}
+
+.bottom-cloud{
+    position : absolute;
+    left: 250px;
+    margin-bottom: 300px;
+}
+
+.profile{
+    margin-bottom: 20px;
+}
+
+.coding-image{
+        width: 25%;
+        /* height: 30%; */
+        float: left;
+        margin-right: 30px;
+}
+
+.guitar-image{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.poem-image{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 20px auto;
+    text-align: left;
+    display: inline-block;
+    padding-bottom: 50px;
+}
+
+.skills{
+    margin-bottom: 0;
+}
+
+.social-icons{
+    width: 20px;
+    height: 20px;
+    margin: 5px 20px;
+}
+
+.email-me-icon{
+    width: 3%;
+    height: 3%;
+    margin: 30px auto;
+}
+
+
+.intro{
+    margin: auto;
+    width: 30%;
+}
+
+
+.contact-message{
+    width: 40%;
+    margin: 10px auto 10px auto;
+}
+
+.footer-text{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 2px 0 0;
+}
